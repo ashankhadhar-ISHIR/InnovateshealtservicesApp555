@@ -1,0 +1,14 @@
+{
+  "appname": "InnovateshealtservicesApp555",
+  "scope": "DevCenterImpersonate ProductReader BuyerAdmin BuyerReader AddressReader MeAddressAdmin MeCreditCardAdmin",
+  "clientid": "3E21B469-026B-424A-8F6B-C73A56AF44C4",
+  "buyerid": "BuyerID2",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
